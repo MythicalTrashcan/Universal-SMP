@@ -18,7 +18,7 @@ body{
     font-size: 100px;
     text-decoration: none;
     border-radius:5px;
-	margin-bottom: -450px;
+	margin-bottom: -300px;
 }
 
 .download-btn:hover {
@@ -27,4 +27,4 @@ body{
 
 .dir {
 	text-align: center;
-	margin-bottom: -300px;
+	margin-bottom: -250px;
